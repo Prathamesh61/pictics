@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+/* .imageHover:hover {
+  animation-name: zoom;
+  animation-duration: 4s;
+  transition: all;
+  transition-duration: 4s;
+}
+
+@keyframes zoom {
+  from {
+    width: 100%;
+  }
+
+  to {
+    width: 150%;
+  }
+} */
